@@ -1,0 +1,118 @@
+.logo{    
+    margin-left: 710px;
+}
+
+img{
+    width: 450px;
+}
+
+.container1{
+    width: 90%;
+    height: 90px;
+    background-color: #E7E6E1;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+.container2{
+    width: 90%;
+    height: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3px;
+    
+
+}
+
+.top{
+    margin-left: 640px;
+    width: 420px;
+    height: 22px;
+    position: absolute;
+    top: 30px;
+    
+}
+
+.buttons{
+    position: absolute;
+    left: 710px;
+    margin-top: 10px;
+    
+    
+}
+
+.col1{
+    width: 620px;
+    height: 100px;
+    background-color: #B3E8E5;
+    float: left;
+    margin-right: 2px;
+    text-align: center;
+}
+
+
+
+.col1 ul{
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+.col2{
+    width: 380px;
+    height: 100px;
+    background-color:#82DBD8;
+    float: left;
+    margin-right: 2px;
+    text-align: center;
+}
+
+.col3{
+    width: 709px;
+    height: 100px;
+    background-color: #3BACB6;
+    float: left;
+}
+
+.ymail{
+    position: relative;
+    
+    
+}
+
+.ymail input{
+    width: 220px;
+    height: 22px;
+    position: absolute;  
+    left: 250px;
+    bottom: 2px;
+    
+}
+
+.buttonlink{
+    margin-left: 280px;
+}
+
+
+
+p{
+    text-align: center;
+    font-size: 23px;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+pre{
+    margin-left: 170px;
+    margin-top: 5px;
+    font-size: 14px;
+}
+
+footer{
+    margin-top: 30px;
+    text-align: center;
+}
+
+
